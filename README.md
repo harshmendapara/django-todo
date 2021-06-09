@@ -1,4 +1,4 @@
-# django-todo
+# Django Todo
 A simple todo app built with django
 
 ![todo App](https://raw.githubusercontent.com/harshmendapara/django-todo/develop/staticfiles/todoApp.png)
@@ -48,7 +48,7 @@ Cheers and Happy Coding :)
 
 ## Author
 
-**django-todo** © [Harsh Mendapara](https://github.com/harshmendapara/), Released under the [MIT](./LICENSE) License.<br>
+**Django Todo** © [Harsh Mendapara](https://github.com/harshmendapara/), Released under the [MIT](./LICENSE) License.<br>
 Authored and maintained by Harsh Mendapara with help from contributors ([list](https://github.com/Harsh02051998/vue-internet-checker/graphs/contributors)).
 
 > GitHub [@Harsh Mendapara](https://github.com/harshmendapara)
